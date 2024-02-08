@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning **HTML**, **CSS**, **Javascript**, **Google ADS** and **Facebook ADS**
-- 💻 I’m interested in **front-end/ beck-end development**, **UX/UI design** and **paid traffic**
+- 💻 I’m interested in **front-end/ beck-end development**, **UX/UI design** and **paid traffic management**
 -  📫 Contact me **[here](https://www.linkedin.com/in/filipe-pileggi/)**
   
  
